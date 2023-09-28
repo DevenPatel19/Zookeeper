@@ -1,4 +1,4 @@
-package zoo;
+package com.codingdojo.zookeeper;
 
 public class Gorilla extends Mammal {
     public void throwSomething() {
